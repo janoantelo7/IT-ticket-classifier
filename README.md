@@ -1,5 +1,5 @@
 # IT Ticket Classifier
-A solution to categorize IT support requests.
+A NLP-based solution for classifying IT support requests.
 
 ## Data Source
 
