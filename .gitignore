@@ -9,3 +9,6 @@
 
 # dataset folder
 data/
+
+# ignore temporary files
+*.tmp
