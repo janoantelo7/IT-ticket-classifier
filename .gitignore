@@ -11,4 +11,4 @@
 data/
 
 # ignore temporary files
-*.tmp
+tmp/
